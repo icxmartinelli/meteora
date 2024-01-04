@@ -4,3 +4,23 @@
 .divs-facilidades {
     width: 325px;
 }
+.botao-lilas {
+    background-color: #9353FF;
+}
+.verde-limao {
+    color: #DAFF01;
+}
+
+/* Adicionado ao ver que estava diferente do exibido no vídeo... */
+.div-novidades {
+    width: 325px;
+}
+
+@media(min-width: 768px) {
+
+    .div-novidades {
+        width: 696px;
+    }
+
+}
+
