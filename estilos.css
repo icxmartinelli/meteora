@@ -10,6 +10,14 @@
 .verde-limao {
     color: #DAFF01;
 }
+.posicao{
+    top: 60%;
+}
+@media(max-width: 767px){
+    .posicao{
+        top:60%;
+    }
+}
 
 /* Adicionado ao ver que estava diferente do exibido no vídeo... */
 .div-novidades {
